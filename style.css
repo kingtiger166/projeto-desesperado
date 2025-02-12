@@ -23,11 +23,11 @@ header {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(126, 126, 126);
 }
 
 .video {
-    border: solid 2px lime;
+    border: solid 2px rgb(126, 126, 126);
 }
 
 .chamada-texto {
@@ -43,13 +43,13 @@ header {
     display: inline-block;
     overflow: hidden;
     white-space: nowrap;
-    color: lime;
+    color: rgb(126, 126, 126);
     /* Define a cor do texto */
 }
 
 .cursor {
     display: inline-block;
-    color: lime;
+    color: rgb(126, 126, 126);
     /* Define a mesma cor do texto */
     animation: blink-caret 0.7s step-end infinite;
 }
@@ -87,7 +87,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    scrollbar-color: lime black;
+    scrollbar-color: rgb(156, 156, 156) black;
     scrollbar-width: thin;
     gap: 10px;
 }
@@ -105,11 +105,11 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid lime;
+    border: 3px solid rgb(126, 126, 126);
 }
 
 .categoria h2 {
-    color: lime;
+    color: rgb(126, 126, 126);
 }
 Hacker Universe
 .copyright {
