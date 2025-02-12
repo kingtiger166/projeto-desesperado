@@ -6,10 +6,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px lime;
+    border-bottom: solid 2px rgb(126, 126, 126);
     padding: 20px;
     font-size: 32px;
-    color: lime;
+    color: rgb(126, 126, 126);
 }
 
 .background {
